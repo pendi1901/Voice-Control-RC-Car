@@ -6,10 +6,10 @@
 - Design Inspiration: Mercedes W12- Silver Arrow
 ## Working
 This is a Voice Controlled Car where we had programmed 4 commands to perform the respective actions:
-*"FORWARD" - Instructs the car to move forwards.
-*"BACK" - Instructs the car to move backwards.
-*"RIGHT" - Instructs the car to move to the right.
-*"LEFT" - Instructs the car to move to the left.
+* **"FORWARD"** - Instructs the car to move forwards.
+* **"BACK"** - Instructs the car to move backwards.
+* **"RIGHT"** - Instructs the car to move to the right.
+* **"LEFT"** - Instructs the car to move to the left.
 - There's a steering mechanism in place to facilitate the RIGHT and LEFT movements.
 ## Stuff we've used:
 - We've used 2: 20V - DC Motors as the Chassis was pretty heavy and we needed powerful motors to keep the car moving.
