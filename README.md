@@ -1,6 +1,6 @@
 # Voice-Control-RC-Car
 ## PIS Endsem Project - Arduino Based
-![ F1 Prototype ](PIS1.jpeg)
+![ F1 Prototype ](PIS2.jpeg)
 ## Concept:
 - An F1 Car made from reinforced Cardboard and Motors, Battery Packs and many more components.
 - Design Inspiration: Mercedes W12- Silver Arrow
