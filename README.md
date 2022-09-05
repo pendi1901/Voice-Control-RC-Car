@@ -1,10 +1,11 @@
 # Voice-Control-RC-Car
 ## PIS Endsem Project - Arduino Based
-- ![F1 Prototype ] https://github.com/pendi1901/Voice-Control-RC-Car/blob/main/PIS1.jpeg?raw=true
+![ F1 Prototype ] (PIS1.jpeg)
 ## Concept:
 - An F1 Car made from reinforced Cardboard and Motors, Battery Packs and many more components.
 - Design Inspiration: Mercedes W12- Silver Arrow
-- This is a Voice Controlled Car where we had programmed 4 commands to perform the respective actions:
+## Working
+This is a Voice Controlled Car where we had programmed 4 commands to perform the respective actions:
 *"FORWARD" - Instructs the car to move forwards.
 *"BACK" - Instructs the car to move backwards.
 *"RIGHT" - Instructs the car to move to the right.
